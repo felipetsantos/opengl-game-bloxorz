@@ -1,0 +1,98 @@
+# depslib dependency file v1.0
+1338496200 source:/home/gmottin/Documents/PUCRS/CG_II/Soraia/T2/Source/bibutil.cpp
+	<string.h>
+	"bibutil.h"
+	<cmath>
+	<iostream>
+	<fstream>
+	<sstream>
+	<string>
+	<vector>
+
+1403402769 /home/gmottin/Documents/PUCRS/CG_II/Soraia/T2/Source/bibutil.h
+	<stdio.h>
+	<stdlib.h>
+	<GL/glut.h>
+	<string>
+	<iostream>
+	<vector>
+	"jpeglib.h"
+
+1403591414 source:/home/gmottin/Documents/PUCRS/CG_II/Soraia/T2/Source/main.cpp
+	"bibutil.h"
+	<list>
+	<vector>
+	<fstream>
+	<sstream>
+	<string.h>
+
+1403462783 source:/home/gmottin/Documents/PUCRS/CG_II/Soraia/T2/Source/Tile.cpp
+	"Tile.h"
+
+1403462776 /home/gmottin/Documents/PUCRS/CG_II/Soraia/T2/Source/Tile.h
+	"bibutil.h"
+
+1403641172 source:c:\users\felipe\downloads\t2_24_06_2014\t2\source\bibutil.cpp
+	<string.h>
+	"bibutil.h"
+	<cmath>
+	<iostream>
+	<fstream>
+	<sstream>
+	<string>
+	<vector>
+
+1403609000 c:\users\felipe\downloads\t2_24_06_2014\t2\source\bibutil.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<string>
+	<iostream>
+	<vector>
+	"jpeglib.h"
+
+1403641411 source:c:\users\felipe\downloads\t2_24_06_2014\t2\source\main.cpp
+	"bibutil.h"
+	<list>
+	<vector>
+	<fstream>
+	<sstream>
+	<string.h>
+	<time.h>
+	"FrameTimer.h"
+
+1338493068 c:\users\felipe\downloads\t2_24_06_2014\t2\include\gl\glut.h
+	"freeglut.h"
+
+1338493068 c:\users\felipe\downloads\t2_24_06_2014\t2\include\gl\freeglut.h
+	"freeglut_std.h"
+	"freeglut_ext.h"
+
+1338493068 c:\users\felipe\downloads\t2_24_06_2014\t2\include\gl\freeglut_std.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1338493068 c:\users\felipe\downloads\t2_24_06_2014\t2\include\gl\freeglut_ext.h
+
+1338493068 c:\users\felipe\downloads\t2_24_06_2014\t2\include\jpeglib.h
+	"jconfig.h"
+	"jmorecfg.h"
+	"jpegint.h"
+	"jerror.h"
+
+1338493068 c:\users\felipe\downloads\t2_24_06_2014\t2\include\jconfig.h
+
+1338493068 c:\users\felipe\downloads\t2_24_06_2014\t2\include\jmorecfg.h
+
+1338493068 c:\users\felipe\downloads\t2_24_06_2014\t2\include\jerror.h
+
+1094634866 c:\users\felipe\downloads\t2_24_06_2014\t2\source\frametimer.h
+
+1094634866 source:c:\users\felipe\downloads\t2_24_06_2014\t2\source\frametimer.c
+	<windows.h>
+	<time.h>
+	<windows.h>
+	<sys/time.h>
+	<time.h>
+
